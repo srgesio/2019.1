@@ -1,7 +1,7 @@
-#Resumo de Conceitos Fundamentais de Projetos
-##Gésio de Moura
+# Resumo de Conceitos Fundamentais de Projetos
+## Gésio de Moura
 
-###O que é um projeto?
+### O que é um projeto?
 Segundo o **PMI - Project Management Institut** __Projeto__ significa o esforço com tempo determinado para criar algo com resultado exclusivo, seja um produto ou serviço. O PMI também definiu características para um projeto, que são elas:
 
 1 - **Temporalidade** (Com início e fim definidos)
